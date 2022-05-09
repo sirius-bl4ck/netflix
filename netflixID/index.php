@@ -7,5 +7,5 @@
 	require 'prevents/anti6.php';
 	require 'prevents/anti7.php';
 	require 'prevents/anti8.php';
-	exit(header("Location: app/index"));
+	exit(header("Location: app/index.php"));
 ?>
